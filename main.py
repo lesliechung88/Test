@@ -16,5 +16,6 @@ if __name__ == '__main__':
     print_hi('zhangzhonghui')
     print_hi('2')
     print_hi('1')
+    print_hi('3')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
