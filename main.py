@@ -31,4 +31,5 @@ if __name__ == '__main__':
     print_hi('15')
     print_hi('16')
     print_hi('17')
+    print_hi('18')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
