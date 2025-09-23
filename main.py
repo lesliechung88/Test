@@ -25,6 +25,6 @@ if __name__ == '__main__':
     print('9')
     print('10')
     print('11')
-
     print('12')
+    print_hi('13')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
