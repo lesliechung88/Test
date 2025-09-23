@@ -13,5 +13,18 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('leslie')
+    print_hi('zhangzhonghui')
+    print_hi('2')
+    print_hi('1')
+    print_hi('3')
+    print('4')
+    print('5')
+    print('6')
+    print('7')
+    print('8')
+    print('9')
+    print('10')
+    print('11')
+    print('12')
     print_hi('13')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
