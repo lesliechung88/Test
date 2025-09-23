@@ -39,4 +39,5 @@ if __name__ == '__main__':
     print_hi('23')
     print_hi('24')
     print_hi('25')
+    print_hi('26')
     # See PyCharm help at https://www.jetbrains.com/help/pycharm/
